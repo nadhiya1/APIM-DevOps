@@ -1,0 +1,10 @@
+{
+    "sourceApimName": "SHV-APIM-DEV",
+    "destinationApimName": "NL-HQ-SHV-APIM-STANDALONE",
+    "resourceGroup": "RG-NL-HQ-API-MANAGEMENT-D",
+    "linkedTemplateBaseUrl": "https://tempstoragenl.blob.core.windows.net/armartifacts",
+    "linkedTemplatesUrlQueryString": "?sp=r&st=2022-01-25T10:58:30Z&se=2023-01-25T18:58:30Z&spr=https&sv=2020-08-04&sr=c&sig=d6QRWUQOy87JO01Eq%2FR9IyrnfufkB9YBG%2BRZIqmyzDc%3D",
+    "policyXMLBaseUrl": "https://tempstoragenl.blob.core.windows.net/armartifacts/policies",
+    "policyXMLSasToken":"?sp=r&st=2022-01-25T10:58:30Z&se=2023-01-25T18:58:30Z&spr=https&sv=2020-08-04&sr=c&sig=d6QRWUQOy87JO01Eq%2FR9IyrnfufkB9YBG%2BRZIqmyzDc%3D",
+    "paramNamedValueKeyVaultSecrets": "true"
+}
